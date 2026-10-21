@@ -13,7 +13,7 @@ VLESS, Trojan, Shadowsocks, gRPC, XHTTP over WebSocket + TLS, with a bilingual p
 WARP, proxy chaining, and a Backend mode. Runs on Cloudflare's **free plan**.
 
 [![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-green?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/version-4.7.4-blueviolet?style=for-the-badge)](https://github.com/IRNova/Nova-Proxy)
+[![Version](https://img.shields.io/badge/version-5.0.0-blueviolet?style=for-the-badge)](https://github.com/IRNova/Nova-Proxy)
 [![Stars](https://img.shields.io/github/stars/IRNova/Nova-Proxy?style=for-the-badge&color=0ea5e9)](https://github.com/IRNova/Nova-Proxy)
 
 </div>
@@ -25,11 +25,11 @@ WARP, proxy chaining, and a Backend mode. Runs on Cloudflare's **free plan**.
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20Website-novaproxy.online-0ea5e9?style=for-the-badge)](https://novaproxy.online/)
-[![Telegram Channel](https://img.shields.io/badge/✈️%20Telegram%20Channel-@irnova__proxy-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova_proxy)
-[![Telegram Group](https://img.shields.io/badge/👥%20Telegram%20Group-@irnovaproxy__group-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnovaproxy_group)
+[![Telegram Channel](https://img.shields.io/badge/✈️%20Telegram%20Channel-@irnova-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova)
+[![Telegram Group](https://img.shields.io/badge/👥%20Telegram%20Group-@irnova__group-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova_group)
 [![YouTube](https://img.shields.io/badge/▶️%20YouTube-@novaproxyir-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@novaproxyir)
 [![X (Twitter)](https://img.shields.io/badge/𝕏%20X-@irNovaProxy-000000?style=for-the-badge&logo=x)](https://x.com/irNovaProxy)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-@irnova__proxy-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/irnova_proxy)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-@irnova__team-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/irnova_team)
 [![Deploy to Cloudflare](https://img.shields.io/badge/⚡%20Deploy-to%20Cloudflare-f6821f?style=for-the-badge&logo=cloudflare)](https://deploy.workers.cloudflare.com/?url=https://github.com/IRNova/Nova-Proxy)
 
 </div>
