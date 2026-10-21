@@ -27,11 +27,11 @@ WARP، زنجیره پروکسی و حالت Backend. اجرا روی **پلن �
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20سایت-novaproxy.online-0ea5e9?style=for-the-badge)](https://novaproxy.online/)
-[![Telegram Channel](https://img.shields.io/badge/✈️%20کانال%20تلگرام-@irnova__proxy-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova_proxy)
-[![Telegram Group](https://img.shields.io/badge/👥%20گروه%20تلگرام-@irnovaproxy__group-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnovaproxy_group)
+[![Telegram Channel](https://img.shields.io/badge/✈️%20کانال%20تلگرام-@irnova-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova)
+[![Telegram Group](https://img.shields.io/badge/👥%20گروه%20تلگرام-@irnova__group-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/irnova_group)
 [![YouTube](https://img.shields.io/badge/▶️%20یوتیوب-@novaproxyir-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@novaproxyir)
 [![X (Twitter)](https://img.shields.io/badge/𝕏%20شبکه%20ایکس-@irNovaProxy-000000?style=for-the-badge&logo=x)](https://x.com/irNovaProxy)
-[![Instagram](https://img.shields.io/badge/📸%20اینستاگرام-@irnova__proxy-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/irnova_proxy)
+[![Instagram](https://img.shields.io/badge/📸%20اینستاگرام-@irnova__team-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/irnova_team)
 
 </div>
 
@@ -255,7 +255,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/IRNova/Tools/main/nova-backe
 نوا به‌صورت **نسخهٔ محافظت‌شده** منتشر می‌شود: مخزن عمومی فقط فایل استقرار ⁦`worker.js`⁩ (کوچک‌سازی و مبهم‌سازی‌شده) و دادهٔ استقرار آن را دارد و سورس قابل‌نگهداری پنل خصوصی می‌ماند. این همان مدل **«پنل محافظت‌شده، ابزارها باز»** است: پنل محافظت می‌شود، اما ابزارهای پیرامونی (کلاینت‌ها، ⁦Nova Radar⁩ و کمک‌ابزارهای تأییدشده) باز می‌مانند. نوا یک **سرویس رایگان** است، پس شرایط زیر برای نام نوا و کانفیگ‌هایی که می‌سازد اعمال می‌شود:
 
 - **نفروش.** کانفیگ‌ها، اشتراک‌ها یا دسترسی نوا را به‌عنوان محصول پولی نفروش. نوا برای همه رایگان است.
-- **نشان سرویس رایگان را حذف نکن.** هر نودِ ساخته‌شده یک نشان قفل‌شدهٔ `سرویس رایگان نوا @irnova_proxy` دارد. حذف آن برای جا زدن کانفیگ‌ها به‌عنوان سرویس پولی خودت مجاز نیست.
+- **نشان سرویس رایگان را حذف نکن.** هر نودِ ساخته‌شده یک نشان قفل‌شدهٔ `سرویس رایگان نوا @irnova` دارد. حذف آن برای جا زدن کانفیگ‌ها به‌عنوان سرویس پولی خودت مجاز نیست.
 - **اعتبار را نگه دار.** اگر فورک یا بازتوزیع می‌کنی، اعتبار نوا پروکسی و لینک به این ریپازیتوری را نگه دار.
 - **جعل هویت نکن.** از نام، لوگو یا کانال نوا برای جا زدن یک نسخهٔ ری‌برندشده به‌عنوان نوای رسمی استفاده نکن.
 
